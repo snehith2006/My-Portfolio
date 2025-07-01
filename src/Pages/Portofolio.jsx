@@ -26,21 +26,21 @@ const projects = [
   },
   {
     id: 2,
+    title: "Netflix Clone",
+    description: "Developed a responsive Netflix clone website built with React, HTML, and CSS. It features a modern user interface with dynamic movie thumbnails, category sections, and smooth navigation to simulate the look and feel of the original Netflix platform.",
+    image: "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5..v1582751026.png",
+    tags: ["HTML","CSS","ReactJs"],
+    demoUrl: "",
+    githubUrl: "",
+  },
+   {
+    id: 3,
     title: "Real-Time Chat Application (MERN Stack)",
     description: "Developed a full-stack real-time chat application using MERN stack and Socket.io for live, bi-directional messaging.",
     image: "https://www.gtechme.com/wp-content/uploads/2024/07/Top-Chatting-Apps-In-UAE-2024-Update-banner.jpg",
     tags: ["ReactJs","NodeJs","MongoDB","Socket.io"],
     demoUrl: "https://lets-chat-o9vm.onrender.com/signup",
     githubUrl: "https://github.com/snehith2006/lets-chat",
-  },
-  {
-    id: 3,
-    title: "Netflix Clone",
-    description: "Developed a Netflix clone",
-    image: "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5..v1582751026.png",
-    tags: ["ReactJs","NodeJs","MongoDB"],
-    demoUrl: "",
-    githubUrl: "",
   }
 ];
 
