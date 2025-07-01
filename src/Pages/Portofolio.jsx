@@ -33,6 +33,15 @@ const projects = [
     demoUrl: "https://lets-chat-o9vm.onrender.com/signup",
     githubUrl: "https://github.com/snehith2006/lets-chat",
   },
+  {
+    id: 3,
+    title: "Netflix Clone",
+    description: "Developed a Netflix clone",
+    image: "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5..v1582751026.png",
+    tags: ["ReactJs","NodeJs","MongoDB"],
+    demoUrl: "",
+    githubUrl: "",
+  }
 ];
 
 function TabPanel({ children, value, index, ...other }) {
